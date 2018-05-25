@@ -25,7 +25,24 @@
   color: #386fa4;
 }
 
-/*!
+.statistic-panel {
+  margin: 0;
+  height: 100%;
+}
+
+.bar {
+  fill: #0080FF;
+}
+
+.bar:hover {
+  fill: #003366;
+}
+
+.text {
+  fill: black;
+  font-family: 'Nunito', sans-serif;
+  text-rendering: optimizeLegibility;
+}/*!
  * Bootstrap v4.1.0 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
@@ -983,4 +1000,4 @@
   content:'\E0DE';
 }
 
-/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJjc3Mvc3R5bGUuNDYxYjNmNDQ5MWRmNzU3ZGNhYjQuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJjc3Mvc3R5bGUuNTYwYzBiNmRlMTM1YzFkZGQ4OTUuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
